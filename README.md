@@ -1,4 +1,4 @@
-# VoxelRendering
+# VoxelRendererSample
 
 Ancien projet C++ (janvier 2011) : moteur de rendu **voxel** logiciel de type *Comanche* / *Voxel Space*. À partir d'une carte d'altitude (*heightmap*) et d'une carte de couleur (*albedo*), il calcule une vue en perspective du terrain, sans GPU, directement dans un bitmap affiché par l'interface.
 
